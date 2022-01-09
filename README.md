@@ -1,7 +1,7 @@
 # HeartDisease Classification
  Classification of patients with likelihood of heart disease
 
-This analysis is a slightly modified analysis of an existing Statquest Jupyter Notebook
+This analysis is a slightly modified version of an existing Statquest Jupyter Notebook
 
 ## Details
 - Jupyter Notebook (Static Version)
