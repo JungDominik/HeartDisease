@@ -6,8 +6,3 @@ HeartDisease Classification
 - Core Instruction: Statquest
 - Method: Classification Tree from scikit-learn
 - TBC..
-
-## Branch dependent change
-- Lorem Ipsum
-
-
