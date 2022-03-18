@@ -1,4 +1,8 @@
 # HeartDisease Classification
+
+![image](https://user-images.githubusercontent.com/29613804/159070936-50062555-04d6-47df-b35a-d787d2051435.png)
+
+
 ## Project Overview
 This training project develops a prediction model of risk for heart disease in patients. Potential usecases are automatic first screening of incoming patients for risk of heart disease in hospitals or usage of the resulting tree structure as heuristic for medical professionals. 
 
