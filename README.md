@@ -13,10 +13,10 @@ This analysis is a slightly modified version of an existing Statquest Jupyter No
  - Classification Tree (node separation based on the default setting: Gini Impurity score)
  - Tree validation: Cross-validation
 
-## Data: UCI Machine Learning Repository
+## Data Overview
   - Attributes: 14 patient data attributes (eg. age, sex, cholesterol, chest pain, ...)
   - Scale level: Categorical and Float
-  - Data can be found at https://archive.ics.uci.edu/ml/datasets/heart+disease
+  - The dataset can be found at the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 ## Contact
 Please feel free to contact the author at dominikjung[at]gmx[dot]de
