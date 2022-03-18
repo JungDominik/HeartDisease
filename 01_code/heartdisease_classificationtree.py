@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import plot_confusion_matrix
-from sklearn.metrics import ConfusionMatrixDisplay #Instead of plot_confusion_matrix - geht nicht
+from sklearn.metrics import ConfusionMatrixDisplay #Instead of plot_confusion_matrix
 
 
 ###Preparation and Data import
